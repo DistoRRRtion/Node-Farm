@@ -1,4 +1,4 @@
-# node-farm
+# Node-Farm
 
 ![image](https://user-images.githubusercontent.com/99020542/215141889-940474e8-5bc7-41ca-bfdb-1932b0f15b59.png)
 
